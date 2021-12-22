@@ -4,7 +4,8 @@
   "description": "a simple unit testing project",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "lint": "eslint ./"
   },
   "keywords": [
     "mocha",

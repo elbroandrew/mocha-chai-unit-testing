@@ -15,5 +15,4 @@ describe(`isNumberEven positive scenarios`, () => {
   it(`should return false if number is odd`, () => {
     expect(validator.isNumberEven(5)).to.be.equal(false);
   });
-  
 });
