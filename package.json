@@ -45,6 +45,8 @@
     "functions": 40
   },
   "husky":{
-    
+    "hooks": {
+      "pre-commit": "npm run cover"
+    }
   }
 }
