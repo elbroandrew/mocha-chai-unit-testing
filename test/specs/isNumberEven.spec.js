@@ -15,13 +15,5 @@ describe(`isNumberEven positive scenarios`, () => {
   it(`should return false if number is odd`, () => {
     expect(validator.isNumberEven(5)).to.be.equal(false);
   });
-  it(`chai test`, () => {
-    expect({a: 'apple', b: 30}).to.be.have.property('a');
-  });
-  it(`chai test`, () => {
-    expect({a: 'apple', b: 30}).to.be.eql({a: 'apple', b: 30});
-  });
-  it(`chai test`, () => {
-    expect([1,2,3]).to.have.lengthOf(3);
-  });
+  
 });
