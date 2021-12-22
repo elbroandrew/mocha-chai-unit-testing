@@ -22,5 +22,21 @@
     "mocha": "^9.1.3",
     "mochawesome": "^7.0.1",
     "nyc": "^15.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elbroandrew/mocha-chai-unit-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elbroandrew/mocha-chai-unit-testing/issues"
+  },
+  "homepage": "https://github.com/elbroandrew/mocha-chai-unit-testing#readme",
+  "desription": "",
+  "nyc": {
+    "reporter": "html"
   }
 }
