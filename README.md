@@ -1,6 +1,12 @@
 # Installation
-```npm install```
+```
+npm install
+```
 # Run unit tests
-```npm run test```
+```
+npm run test
+```
 # Generate coverage report
-```npm run cover```
+```
+npm run cover
+```
